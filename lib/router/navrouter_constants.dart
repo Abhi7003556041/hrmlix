@@ -1,0 +1,9 @@
+const String login = "/login";
+const String dashboard = "/dashboard";
+const String bottomNavigation = "/bottomNavigation";
+const String clockInCard = "/clockInCard";
+const String investments80C = "/investments80C";
+const String addInvestments80C = "/addInvestments80C";
+const String leaveHistory = "/leaveHistory";
+const String applyLeave = "/applyLeave";
+const String reimbursementHistory = "/reimbursementHistory";
